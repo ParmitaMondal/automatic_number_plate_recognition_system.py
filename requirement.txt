@@ -1,0 +1,8 @@
+# 📋 requirements.txt
+```txt
+torch>=2.1
+torchvision>=0.16
+numpy>=1.22
+pandas>=1.5
+Pillow>=9.0
+tqdm>=4.65
